@@ -1,4 +1,4 @@
-package net.uni;
+package net.gondor;
 
 import java.util.ArrayList;
 import java.util.List;
